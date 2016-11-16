@@ -217,10 +217,13 @@ var MusicPlayer = (function () {
                 
                 if (filetype.match('audio/.*')) {
                     var reader = new FileReader();
-                    
+                    // Raising a toast on loading
+                    Materialize.toast($('<b><span style="color: lightcoral;">Loading the file..</span></b>'), 700);
+                    /*
                     reader.onloadstart = function (e) {
                         Materialize.toast($('<b><span style="color: lightcoral;">Loading the file..</span></b>'), 700);
                     }
+                    */
                     reader.onloadend = function (e) {
                         if (reader.error) {
                             var msg = "Error occurred while loading " + filename;
