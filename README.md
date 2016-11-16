@@ -3,14 +3,8 @@
 - Various controls provided (keyboard shortcuts) 
 - Seek the song
 - Error displayed if incorrect file type dropped
-
-## Controls:
-  - Arrow Keys                ^
-  					Volume Up |
-
-  <- Rewind	      Volume Down |		 Forward ->
-  							 " "
-
-  - <Space Bar>  Play / Pause
-
-  - Seek bar and volume bar are clickable.
+<br/>
+- ## Controls:
+  ![Controls](/screenshots/controls.png)
+ <br/> 
+- ## [Go and Listen!](https://pratulyab.github.io/musicplayer)
