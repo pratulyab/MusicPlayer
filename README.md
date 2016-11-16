@@ -10,12 +10,11 @@
 # Controls:
   ![Controls](/screenshots/controls.png)
  <br/> 
-# Link: 
-- [Go and Listen!](https://pratulyab.github.io/musicplayer)
-<br/>
+# Link: [Go and Listen!](https://pratulyab.github.io/musicplayer)
+<br/><br/>
 # Screenshots:
 - Player ![Music Player image](/screenshots/base.png)<br/>
 - Dragging audio file ![Dragging audio file image](/screenshots/dragging.png)<br/>
 - Dropped and Loading file ![Dropped and loading file image](/screenshots/dropped.png)<br/>
 - Playing  ![Playing image](/screenshots/playing.png)<br/>
-- Incorrect file type  ![Incorrect file type image](/screenshots/controls.png)
+- Incorrect file type  ![Incorrect file type image](/screenshots/incorrect.png)
